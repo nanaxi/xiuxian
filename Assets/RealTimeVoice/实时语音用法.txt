@@ -1,0 +1,17 @@
+RealTimeVoice.cs 中设置appid appkey
+
+// 进入房间时调用
+RealTimeVoice.Inst.JoinRoom(room.roomId.ToString());
+RealTimeVoice.Inst.onJoinRoomSuccess = () =>
+{
+	RealTimeVoice.Inst.OpenSpeaker(true);
+};
+
+// 退出房间时调用
+RealTimeVoice.Inst.QuitRoom(room.roomId.ToString());
+
+// 打开或关闭其他人说话
+RealTimeVoice.Inst.OpenSpeaker();
+
+// 打开或关闭自己说话
+RealTimeVoice.Inst.OpenMic();

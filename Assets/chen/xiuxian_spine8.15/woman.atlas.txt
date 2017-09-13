@@ -1,0 +1,286 @@
+
+woman.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XXCL_nv_bizi
+  rotate: true
+  xy: 570, 159
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+XXCL_nv_dabi_y
+  rotate: true
+  xy: 570, 184
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+XXCL_nv_dabi_z
+  rotate: false
+  xy: 746, 305
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+XXCL_nv_dang
+  rotate: false
+  xy: 940, 447
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+XXCL_nv_er_y
+  rotate: true
+  xy: 746, 275
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+XXCL_nv_fa1
+  rotate: true
+  xy: 558, 389
+  size: 121, 173
+  orig: 121, 173
+  offset: 0, 0
+  index: -1
+XXCL_nv_fa2
+  rotate: true
+  xy: 2, 23
+  size: 151, 223
+  orig: 151, 223
+  offset: 0, 0
+  index: -1
+XXCL_nv_fa3
+  rotate: true
+  xy: 733, 427
+  size: 83, 205
+  orig: 83, 205
+  offset: 0, 0
+  index: -1
+XXCL_nv_fa4
+  rotate: false
+  xy: 408, 151
+  size: 77, 201
+  orig: 77, 201
+  offset: 0, 0
+  index: -1
+XXCL_nv_fa5
+  rotate: false
+  xy: 228, 187
+  size: 178, 323
+  orig: 178, 323
+  offset: 0, 0
+  index: -1
+XXCL_nv_fa6
+  rotate: false
+  xy: 2, 176
+  size: 224, 334
+  orig: 224, 334
+  offset: 0, 0
+  index: -1
+XXCL_nv_huishou2_z
+  rotate: false
+  xy: 885, 324
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+XXCL_nv_lian
+  rotate: false
+  xy: 408, 354
+  size: 148, 156
+  orig: 148, 156
+  offset: 0, 0
+  index: -1
+XXCL_nv_meimao_y
+  rotate: true
+  xy: 1007, 402
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+XXCL_nv_meimao_z
+  rotate: false
+  xy: 228, 177
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+XXCL_nv_shenti
+  rotate: false
+  xy: 570, 229
+  size: 80, 132
+  orig: 80, 132
+  offset: 0, 0
+  index: -1
+XXCL_nv_shou_y
+  rotate: false
+  xy: 704, 223
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+XXCL_nv_shou_z
+  rotate: false
+  xy: 835, 320
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+XXCL_nv_tui_y
+  rotate: true
+  xy: 733, 374
+  size: 51, 146
+  orig: 51, 146
+  offset: 0, 0
+  index: -1
+XXCL_nv_tui_z
+  rotate: false
+  xy: 652, 227
+  size: 50, 134
+  orig: 50, 134
+  offset: 0, 0
+  index: -1
+XXCL_nv_xiaobi_y
+  rotate: false
+  xy: 789, 309
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+XXCL_nv_xiaobi_z
+  rotate: false
+  xy: 956, 372
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+XXCL_nv_xie1_y
+  rotate: false
+  xy: 704, 277
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+XXCL_nv_xie1_z
+  rotate: true
+  xy: 881, 375
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+XXCL_nv_xie2_y
+  rotate: false
+  xy: 704, 195
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+XXCL_nv_xie2_z
+  rotate: false
+  xy: 2, 2
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+XXCL_nv_y1_y
+  rotate: false
+  xy: 956, 339
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+XXCL_nv_y1_z
+  rotate: false
+  xy: 646, 198
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+XXCL_nv_yanbai_y
+  rotate: true
+  xy: 542, 161
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+XXCL_nv_yanbai_z
+  rotate: false
+  xy: 677, 202
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+XXCL_nv_yanzhu_y
+  rotate: false
+  xy: 791, 278
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+XXCL_nv_yanzhu_z
+  rotate: false
+  xy: 624, 159
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+XXCL_nv_yi1_y
+  rotate: false
+  xy: 487, 163
+  size: 53, 189
+  orig: 53, 189
+  offset: 0, 0
+  index: -1
+XXCL_nv_yi2_z
+  rotate: true
+  xy: 558, 363
+  size: 24, 158
+  orig: 24, 158
+  offset: 0, 0
+  index: -1
+XXCL_nv_yi3_z
+  rotate: false
+  xy: 542, 202
+  size: 26, 150
+  orig: 26, 150
+  offset: 0, 0
+  index: -1
+XXCL_nv_yp1_y
+  rotate: true
+  xy: 933, 323
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+XXCL_nv_yp1_z
+  rotate: true
+  xy: 1000, 338
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+XXCL_nv_yp2_y
+  rotate: true
+  xy: 745, 227
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+XXCL_nv_yp2_z
+  rotate: false
+  xy: 29, 4
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+XXCL_nv_zui
+  rotate: false
+  xy: 956, 323
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
